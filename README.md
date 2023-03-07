@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Tiago Miranda 😁
 
  <div>
    <a href="https://github.com/tiago-miranda-oliveira">
